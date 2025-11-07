@@ -162,7 +162,7 @@ Backend handles authentication, validation, metadata management, caching, and de
   </tr>
   <tr>
     <th> Live Demo</th>
-    <td><a href="https://simplyshare.projectswithsurja.dev" target="_blank">"https://simplyshare.projectswithsurja.dev</a></td>
+    <td><a href="https://simplyshare.projectswithsurja.dev" target="_blank">simplyshare.projectswithsurja.dev</a></td>
   </tr>
   <tr>
     <th> Deployment</th>
@@ -191,10 +191,10 @@ Backend handles authentication, validation, metadata management, caching, and de
     <a href="mailto:janaofficial0110@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/SurjaKumarJana">
+    <a href="https://github.com/SurjaKumarJana"  target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://www.linkedin.com/in/surjakumarjana">
+    <a href="https://www.linkedin.com/in/surjakumarjana" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </p>
